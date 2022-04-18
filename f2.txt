@@ -1,3 +1,0 @@
-Some code in f2 from main branch.
-
-changes in feature 1 branch
